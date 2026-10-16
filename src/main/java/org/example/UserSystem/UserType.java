@@ -1,6 +1,6 @@
 package org.example.UserSystem;
 
 public enum UserType {
-    SystemAdmin,
-    CustomUser
+    SYSTEM_ADMIN,
+    CUSTOM_USER
 }
